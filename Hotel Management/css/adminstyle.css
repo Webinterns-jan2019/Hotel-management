@@ -1,0 +1,57 @@
+body{
+    background-color: rgba(8, 2, 32, 0.938);
+}
+.header{
+    height: 40px;
+    width: auto;
+    background-color: brown;
+}
+.page{
+    height: 565px;
+    width:1500px;
+    background-color:#E5EBF2;
+    display: flex;
+}
+.left{
+    background-color:#09192A;
+    height: 565px;
+    width:250px;
+}
+.btn{
+    background: transparent;
+    color:white;
+    border: none;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+.btn:hover{
+    background:red; 
+}
+.roombook{
+    background-color:#E5EBF2;
+    font-family: 'Open Sans', sans-serif;
+    height: 565px;
+    width:1100px;
+}
+.viewroom{
+    background-color:#E5EBF2;
+    font-family: 'Open Sans', sans-serif;
+    height: 565px;
+    width:1100px;
+}
+.viewrbooking{
+    background-color:#E5EBF2;
+    font-family: 'Open Sans', sans-serif;
+    height: 565px;
+    width:2000px;
+}
+.viewuser{
+    background-color:#E5EBF2;
+    font-family: 'Open Sans', sans-serif;
+    height: 565px;
+    width:1100px;
+}
+th {
+    padding: 10px;
+  
+  }

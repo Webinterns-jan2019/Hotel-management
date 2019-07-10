@@ -1,0 +1,28 @@
+.register {
+    border-radius: 6px ;
+    /* border-color:#428BCA;//code not working of border color
+    border:6px; */
+  
+}
+.register select{
+    border-radius: 4px ; 
+    height:35px;
+    width: 300px;
+    margin-left:80px;
+    color:rgb(7, 7, 104);
+}
+.register input:not(.radio){
+    border-radius: 4px ; 
+    height:30px;
+    width: 300px;
+    margin-left:80px;
+    
+    
+  
+}
+.texts{
+    margin-left:80px; 
+}
+body{
+background: linear-gradient(rgb(11, 29, 190),rgb(5, 43, 87),rgb(25, 212, 8));
+}
